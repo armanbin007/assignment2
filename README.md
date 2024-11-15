@@ -1,3 +1,3 @@
 # Assignment 02
 
-# CSE 1157 Lab NUB
+CSE 1157 Lab NUB
