@@ -5,6 +5,7 @@ int main(){
     scanf("%d", &n1);
     if(n1 == x){
         printf("Right, Player-2 wins!\n");
+        return 0;
     } else {
         printf("Wrong, 2 Chance(s) Left!\n");
     }
@@ -12,6 +13,7 @@ int main(){
 
       if(n2 == x){
         printf("Right, Player-2 wins!\n");
+        return 0;  
     } else {
         printf("Wrong, 1 Chance(s) Left!\n");
     }
